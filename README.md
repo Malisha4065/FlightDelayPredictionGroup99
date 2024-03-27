@@ -8,7 +8,7 @@ This project focuses on predicting flight delays in the United States domestic a
 ## Usage
 
 1. Clone the repository:
-`https://github.com/Malisha4065/FlightDelayPrediction.git`
+`git@github.com:Malisha4065/FlightDelayPredictionGroup99.git`
 
 2. Install dependencies:
 
